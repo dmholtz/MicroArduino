@@ -1,9 +1,7 @@
 /*
-MicroArduino.h: 
+	MicroArduino.cpp - Library for MicroArduino fischertechnik controller 
 
-Created by David M. Holtz
-June 2018
-
+	(C) 2019 by David Holtz <https://github.com/dmholtz>
 */
 
 #include "Arduino.h"
